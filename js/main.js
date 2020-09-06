@@ -1,4 +1,4 @@
-let button = document.querySelector('form');
+let button = document.querySelector('button');
 
 button.onclick = function() {
     alert('Klik działa !');
